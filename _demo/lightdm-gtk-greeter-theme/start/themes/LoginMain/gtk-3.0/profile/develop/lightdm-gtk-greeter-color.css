@@ -1,0 +1,21 @@
+
+
+/*
+	## lightdm-gtk-greeter / color scheme
+*/
+
+/*
+@define-color bg_color #000000;
+@define-color dark_shadow #FFFFFF;
+*/
+
+@define-color bg_color black;
+@define-color dark_shadow white;
+@define-color lightdm_bg_color black;
+@define-color lightdm_fg_color white;
+@define-color theme_selected_bg_color black;
+@define-color theme_selected_fg_color white;
+@define-color error_bg_color black;
+@define-color error_fg_color white;
+@define-color warning_bg_color black;
+@define-color warning_fg_color white;

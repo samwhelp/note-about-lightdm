@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=LoginMain
+Comment=This theme for lightdm-gtk-greeter
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=LoginMain
+MetacityTheme=LoginMain
+IconTheme=Papirus-Dark
+CursorTheme=breeze_cursors
+CursorSize=24
