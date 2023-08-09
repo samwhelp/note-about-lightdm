@@ -26,8 +26,11 @@
 
 
 
-@define-color theme_selected_bg_color black;
-@define-color theme_selected_fg_color white;
+@define-color theme_selected_bg_color green;
+@define-color theme_selected_fg_color blue;
+
+
+
 @define-color error_bg_color red;
 @define-color error_fg_color white;
 @define-color warning_bg_color black;
