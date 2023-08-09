@@ -9,12 +9,23 @@
 @define-color fg_color #FFFFFF;
 */
 
-@define-color bg_color black;
-@define-color dark_shadow white;
 @define-color panel_bg_color black;
 @define-color panel_fg_color white;
+
+
 @define-color lightdm_bg_color black;
 @define-color lightdm_fg_color white;
+
+
+@define-color dark_shadow white;
+
+
+
+
+
+
+
+
 @define-color theme_selected_bg_color black;
 @define-color theme_selected_fg_color white;
 @define-color error_bg_color red;
