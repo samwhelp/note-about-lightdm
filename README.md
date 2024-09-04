@@ -12,7 +12,17 @@
 
 ## 主題
 
+* [微調腳本](#微調腳本)
 * [相關筆記](#相關筆記)
+
+
+
+
+## 微調腳本
+
+| 微調腳本 |
+| -------- |
+| [LightDM Config](https://github.com/samwhelp/lightdm-adjustment/tree/main/prototype/main/lightdm-config) |
 
 
 
