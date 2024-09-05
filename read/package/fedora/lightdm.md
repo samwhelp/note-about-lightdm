@@ -44,6 +44,11 @@ grand_parent: Package
 | [lightdm-gtk-greeter-settings](https://packages.fedoraproject.org/pkgs/lightdm-gtk-greeter-settings/lightdm-gtk-greeter-settings/) |
 
 
+| Fedora Package |
+| -------------- |
+| [xorg-x11-server-Xephyr](https://packages.fedoraproject.org/pkgs/xorg-x11-server/xorg-x11-server-Xephyr/) |
+
+
 
 
 ## 安裝指令

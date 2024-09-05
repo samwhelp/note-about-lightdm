@@ -98,3 +98,22 @@ H  /usr/share/lightdm/lightdm.conf.d/60-lightdm-gtk-greeter.conf
 I  /etc/lightdm/lightdm.conf
 
 ```
+
+
+
+
+## test-mode
+
+執行
+
+``` sh
+lightdm --test-mode --debug
+```
+
+顯示
+
+```
+Running inside an X server requires Xephyr to be installed but it cannot be found.  Please install it or update your PATH environment variable.
+```
+
+所以要先安裝「Xephyr」，然後再執行「`lightdm --test-mode --debug`」才可以看到預覽。
