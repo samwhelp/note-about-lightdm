@@ -12,8 +12,20 @@
 
 ## 主題
 
+* [設定](#設定)
 * [微調腳本](#微調腳本)
 * [相關筆記](#相關筆記)
+
+
+
+
+## 設定
+
+### lightdm-gtk-greeter
+
+| lightdm-gtk-greeter 設定 |
+| ----------------------- |
+| [入門](https://samwhelp.github.io/note-about-lightdm/read/config/lightdm-gtk-greeter/start.html) |
 
 
 
