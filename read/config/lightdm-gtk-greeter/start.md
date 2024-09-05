@@ -73,7 +73,7 @@ grand_parent: 設定
 
 主要的設定檔，是下面兩個檔案
 
-| 設定檔 |
+| [設定檔](https://github.com/samwhelp/lightdm-adjustment/tree/main/prototype/main/lightdm-config/lightdm-gtk-greeter/profile/simple/Arc-Dark/asset/overlay/etc/lightdm) |
 | ----- |
 | [/etc/lightdm/lightdm.conf](https://github.com/samwhelp/lightdm-adjustment/blob/main/prototype/main/lightdm-config/lightdm-gtk-greeter/profile/simple/Arc-Dark/asset/overlay/etc/lightdm/lightdm.conf#L142) |
 | [/etc/lightdm/lightdm-gtk-greeter.conf](https://github.com/samwhelp/lightdm-adjustment/blob/main/prototype/main/lightdm-config/lightdm-gtk-greeter/profile/simple/Arc-Dark/asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf#L103) |
