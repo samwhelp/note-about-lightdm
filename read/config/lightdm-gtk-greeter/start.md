@@ -76,7 +76,7 @@ grand_parent: 設定
 | 設定檔 |
 | ----- |
 | [/etc/lightdm/lightdm.conf](https://github.com/samwhelp/lightdm-adjustment/blob/main/prototype/main/lightdm-config/lightdm-gtk-greeter/profile/simple/Arc-Dark/asset/overlay/etc/lightdm/lightdm.conf#L142) |
-| [/etc/lightdm/lightdm-gtk-greeter.conf]https://github.com/samwhelp/lightdm-adjustment/blob/main/prototype/main/lightdm-config/lightdm-gtk-greeter/profile/simple/Arc-Dark/asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf#L103) |
+| [/etc/lightdm/lightdm-gtk-greeter.conf](https://github.com/samwhelp/lightdm-adjustment/blob/main/prototype/main/lightdm-config/lightdm-gtk-greeter/profile/simple/Arc-Dark/asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf#L103) |
 
 
 > 關於「[/etc/lightdm/lightdm.conf](https://github.com/samwhelp/lightdm-adjustment/blob/main/prototype/main/lightdm-config/lightdm-gtk-greeter/profile/simple/Arc-Dark/asset/overlay/etc/lightdm/lightdm.conf#L142)」的設定，主要是如下的「設定片段」。
@@ -86,7 +86,7 @@ grand_parent: 設定
 greeter-session=lightdm-gtk-greeter
 ```
 
-> 登入畫面，則是參考「[/etc/lightdm/lightdm-gtk-greeter.conf]https://github.com/samwhelp/lightdm-adjustment/blob/main/prototype/main/lightdm-config/lightdm-gtk-greeter/profile/simple/Arc-Dark/asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf#L103)」這個檔案的內容。
+> 登入畫面，則是參考「[/etc/lightdm/lightdm-gtk-greeter.conf](https://github.com/samwhelp/lightdm-adjustment/blob/main/prototype/main/lightdm-config/lightdm-gtk-greeter/profile/simple/Arc-Dark/asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf#L103)」這個檔案的內容。
 
 ``` ini
 
