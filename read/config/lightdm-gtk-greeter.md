@@ -1,7 +1,7 @@
 ---
 title: lightdm-gtk-greeter
 nav_order: 1000
-has_children: false
+has_children: true
 parent: 設定
 ---
 
