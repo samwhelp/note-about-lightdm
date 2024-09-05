@@ -14,9 +14,20 @@ grand_parent: 設定
 
 ## 主題
 
+* [Link](#link)
 * [入門](#入門)
 * [設定範本](#設定範本)
 * [設定範例](#設定範例)
+
+
+
+
+## Link
+
+| Link |
+| ---- |
+| Arch Wiki / [LightDM](https://wiki.archlinux.org/title/LightDM) |
+
 
 
 
