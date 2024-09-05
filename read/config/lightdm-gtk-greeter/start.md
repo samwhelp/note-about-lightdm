@@ -27,6 +27,7 @@ grand_parent: 設定
 | Link |
 | ---- |
 | Arch Wiki / [LightDM](https://wiki.archlinux.org/title/LightDM) |
+| Command / [lightdm](https://samwhelp.github.io/note-about-lightdm/read/command/lightdm.html) |
 
 
 
