@@ -30,11 +30,30 @@ has_children: false
 
 
 
+## Wiki
+
+| Arch Wiki |
+| --------- |
+| [LightDM](https://en.wikipedia.org/wiki/LightDM) |
+
+
+
+
 ## Arch Wiki
 
 | Arch Wiki |
 | --------- |
 | [LightDM](https://wiki.archlinux.org/title/LightDM) |
+
+
+
+
+## Debian Wiki
+
+| Debian Wiki |
+| --------- |
+| [LightDM](https://wiki.debian.org/LightDM) |
+| [DisplayManager](https://wiki.debian.org/DisplayManager) |
 
 
 
