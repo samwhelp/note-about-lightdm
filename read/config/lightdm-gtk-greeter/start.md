@@ -27,6 +27,8 @@ grand_parent: 設定
 | Link |
 | ---- |
 | Arch Wiki / [LightDM](https://wiki.archlinux.org/title/LightDM) |
+| Debian Wiki / [LightDM](https://wiki.debian.org/LightDM) |
+| Debian Wiki / [DisplayManager](https://wiki.debian.org/DisplayManager) |
 | Command / [lightdm](https://samwhelp.github.io/note-about-lightdm/read/command/lightdm.html) |
 
 
