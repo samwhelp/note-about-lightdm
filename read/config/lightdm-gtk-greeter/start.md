@@ -15,6 +15,7 @@ grand_parent: 設定
 ## 主題
 
 * [Link](#link)
+* [Manpage](#manpage)
 * [入門](#入門)
 * [設定範本](#設定範本)
 * [設定範例](#設定範例)
@@ -30,6 +31,16 @@ grand_parent: 設定
 | Debian Wiki / [LightDM](https://wiki.debian.org/LightDM) |
 | Debian Wiki / [DisplayManager](https://wiki.debian.org/DisplayManager) |
 | Command / [lightdm](https://samwhelp.github.io/note-about-lightdm/read/command/lightdm.html) |
+
+
+
+
+## Manpage
+
+| Manpage |
+| --- |
+| [man 1 lightdm](https://manpages.debian.org/bookworm/lightdm/lightdm.1.en.html) |
+| [man 1 dm-tool](https://manpages.debian.org/bookworm/lightdm/dm-tool.1.en.html) |
 
 
 
