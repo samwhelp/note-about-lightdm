@@ -55,6 +55,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
+| [SDDM 探索筆記](https://samwhelp.github.io/note-about-sddm/) | [GitHub](https://github.com/samwhelp/note-about-sddm) |
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
 | [Ultramarine 探索筆記](https://samwhelp.github.io/note-about-ultramarine/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine) |
 | [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
