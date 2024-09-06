@@ -14,6 +14,10 @@
 
 * [設定](#設定)
 * [微調腳本](#微調腳本)
+* [LightDM Demo Config / Gtk Greeter / Simple](#lightdm-demo-config--gtk-greeter--simple)
+* [Package](#package)
+* [Command](#command)
+* [Manpage](#manpage)
 * [相關筆記](#相關筆記)
 
 
@@ -47,6 +51,24 @@
 | [Arc-Dark](https://github.com/samwhelp/lightdm-adjustment/blob/main/prototype/main/lightdm-config/lightdm-gtk-greeter/profile/simple/Arc-Dark) | [/etc/lightdm/lightdm-gtk-greeter.conf](https://github.com/samwhelp/lightdm-adjustment/blob/main/prototype/main/lightdm-config/lightdm-gtk-greeter/profile/simple/Arc-Dark/asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf#L103) |
 | [Arc-Light](https://github.com/samwhelp/lightdm-adjustment/blob/main/prototype/main/lightdm-config/lightdm-gtk-greeter/profile/simple/Arc-Light) | [/etc/lightdm/lightdm-gtk-greeter.conf](https://github.com/samwhelp/lightdm-adjustment/blob/main/prototype/main/lightdm-config/lightdm-gtk-greeter/profile/simple/Arc-Light/asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf#L103) |
 | [Numix](https://github.com/samwhelp/lightdm-adjustment/blob/main/prototype/main/lightdm-config/lightdm-gtk-greeter/profile/simple/Numix) | [/etc/lightdm/lightdm-gtk-greeter.conf](https://github.com/samwhelp/lightdm-adjustment/blob/main/prototype/main/lightdm-config/lightdm-gtk-greeter/profile/simple/Numix/asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf#L103) |
+
+
+
+
+## Package
+
+| [Fedora](https://samwhelp.github.io/note-about-lightdm/read/package/fedora.html) | 探索 |
+| --- | --- |
+| [lightdm](https://packages.fedoraproject.org/pkgs/lightdm/lightdm/) | [探索](https://samwhelp.github.io/note-about-lightdm/read/package/fedora/lightdm.html) |
+
+
+
+
+## Command
+
+| [Command](https://samwhelp.github.io/note-about-lightdm/read/command.html) |
+| --- |
+| [lightdm](https://samwhelp.github.io/note-about-lightdm/read/command/lightdm.html) |
 
 
 
