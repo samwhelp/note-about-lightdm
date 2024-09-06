@@ -73,6 +73,16 @@
 
 
 
+## Manpage
+
+| Manpage |
+| --- |
+| [man 1 lightdm](https://manpages.debian.org/bookworm/lightdm/lightdm.1.en.html) |
+| [man 1 dm-tool](https://manpages.debian.org/bookworm/lightdm/dm-tool.1.en.html) |
+
+
+
+
 ## 相關筆記
 
 | Link | GitHub |
