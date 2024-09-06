@@ -63,6 +63,44 @@ sudo dnf install lightdm lightdm-gtk
 
 > 可以參考「Fedora Wiki / [Lightdm](https://fedoraproject.org/wiki/Lightdm)」的說明。
 
+假如原本採用的是的是「sddm」，先執行下面指令，停用「sddm」
+
+``` sh
+sudo systemctl disable sddm
+```
+
+會顯示類似如下的訊息
+
+```
+Removed "/etc/systemd/system/display-manager.service".
+```
+
+接著執行下面指令，啟用「sddm」
+
+``` sh
+sudo systemctl enable lightdm
+```
+
+會顯示類似如下的訊息
+
+```
+Created symlink /etc/systemd/system/display-manager.service → /usr/lib/systemd/system/lightdm.service.
+```
+
+可以執行下面指令確認
+
+``` sh
+file /etc/systemd/system/display-manager.service
+```
+
+顯示
+
+```
+/etc/systemd/system/display-manager.service: symbolic link to /usr/lib/systemd/system/lightdm.service
+```
+
+
+
 
 ## 檔案列表
 
