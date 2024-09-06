@@ -13,6 +13,7 @@ grand_parent: Package
 ## 主題
 
 * [安裝指令](#安裝指令)
+* [如何設定採用「lightdm」](#如何設定採用-lightdm)
 * [檔案列表](#檔案列表)
 * [bin](#bin)
 * [man](#man)
@@ -58,6 +59,11 @@ grand_parent: Package
 ``` sh
 sudo dnf install lightdm lightdm-gtk
 ```
+
+
+
+
+## 如何設定採用「lightdm」
 
 > 關於在「Fedora」的環境，如何選擇採用的「Display Manager」。
 
