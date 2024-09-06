@@ -1,6 +1,6 @@
 ---
 title: lightdm
-nav_order: 8010
+nav_order: 8030
 has_children: false
 parent: Fedora
 grand_parent: Package
